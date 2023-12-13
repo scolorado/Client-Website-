@@ -1,4 +1,13 @@
 #navs{
     background-color: #0D2A76;
     color: white;
+    font-family: 'Noto Sans Linear A', sans-serif;
+}
+#jumbo{
+    background-color: #0D2A76;
+    width: 100%;
+    text-align: center;
+    color: white;
+    padding: 13%;
+    font-family: 'Playfair Display', serif;
 }
