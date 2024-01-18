@@ -32,3 +32,12 @@
 .logo{
     height: 90px;
 }
+.logo:hover{
+    box-shadow: 10px 10px 5px #BD6A2E;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color: #BD6A2E;
+}
