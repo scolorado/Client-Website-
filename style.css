@@ -41,3 +41,11 @@
 .nav-link:hover{
     color: #BD6A2E;
 }
+
+#questionslink{
+    color: white;
+    text-decoration: none;
+}
+#questionslink:hover{
+    color: #BD6A2E
+}
