@@ -50,3 +50,10 @@
 #questionslink:hover{
     color: #BD6A2E
 }
+.textlink{
+    color: #BD6A2E;
+    text-decoration: none;
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+
+}
